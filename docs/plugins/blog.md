@@ -10,6 +10,10 @@ your documentation or as the main thing. Focus on your content while the plugin
 does all the heavy lifting, generating a view of all latest posts, [archive] and
 [category] pages, configurable [pagination] and much more.
 
+!!! info "Format of author information"
+
+    This plugin is only available in beta version of Material for MkDocs. Check the release pages on github for detailed information.
+
   [archive]: #archive
   [category]: #categories
   [pagination]: #pagination
